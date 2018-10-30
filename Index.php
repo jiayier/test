@@ -14,7 +14,7 @@ class Index
 
     public function index()
     {
-        return 'asdfasdf';
+        return 'asdfasdfasdfasdfasdf';
     }
 
 }
